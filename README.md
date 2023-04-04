@@ -29,10 +29,11 @@
 
 
 
-7. https://drive.google.com/drive/folders/1qUAnLLcDKsuny2S7VUlgzwbWOhJm8GqY?usp=sharing
+7. https://drive.google.com/drive/folders/1qUAnLLcDKsuny2S7VUlgzwbWOhJm8GqY?usp=sharing ( link นี้สำหรับกรณีที่เปิดเกมแล้วไม่สามารถเล่นได้ ให้เข้าไปที่ลิ้งนี้ แล้วทำการดาวน์โหลดโฟลเดอร์ main จากนั้นไปที่ Visual Studio เพื่อเปิดโฟลด์เดอร์ main แล้วทำการรันที่ไฟล์ Game.java )
+[![338378358-1587247285129651-5501514723332256276-n.png](https://i.postimg.cc/GhWJXkPy/338378358-1587247285129651-5501514723332256276-n.png)](https://postimg.cc/ykTZd3b1)
 
 
-หน้าจอแสดงผลข้อมูลที่อยู่ภายในไฟล์ CooffeeMachine.jar เป็นโปรแกรมดังภาพ
+
 
 
 
